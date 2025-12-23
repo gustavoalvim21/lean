@@ -15,6 +15,8 @@ Follow the project’s progress and see what’s coming next 👇
 
 - [ ] Bike, track and gear preview  
   Visual preview of bikes, tracks and riding gear before entering the track.
-  
+- [ ] Drag & drop mod install  
+  Drop mods into the app and let it install and organize everything automatically.
+
 👉 Follow the development and get involved: **[Patreon](https://www.patreon.com/cw/alv21x)**
 
