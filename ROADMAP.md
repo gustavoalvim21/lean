@@ -1,22 +1,23 @@
 # Roadmap
 
-Follow the project’s progress and see what’s coming next 👇
+Follow the project's progress and see what's coming next 👇
 
-## **1.0 — First Release**
-
-- [ ] Quick selection of bike, track, gear and weather  
-  Everything set before hitting the track. No wasted time.
+## 1.0 — First release
+- [ ] Quick pick: bike, track, gear and weather  
+  All set before you hit the track. Save time.
 - [x] Jump straight into the track  
   Launch the game and start riding.
 - [ ] Stable core  
-  The essentials working smoothly, no headaches.
+  Essentials run smooth. No headaches.
 
-## **1.1**
-
+## 1.1 — What's new
 - [ ] Bike, track and gear preview  
-  Visual preview of bikes, tracks and riding gear before entering the track.
+  See a visual preview before entering the track. Avoid surprises.
+- [ ] Bike, track and gear details  
+  Quick stats and key info. Pick the right setup fast.
 - [ ] Drag & drop mod install  
-  Drop mods into the app and let it install and organize everything automatically.
+  Drop mods in the app and it installs and sorts them. Less mess, more track time.
 
 👉 Follow the development and get involved: **[Patreon](https://www.patreon.com/cw/alv21x)**
 
+Join us, test stuff, and give feedback — we build together.
